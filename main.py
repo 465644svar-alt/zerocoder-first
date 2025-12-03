@@ -11,3 +11,4 @@ def area_trapez(a, b,h):
     S_t = 0.5 * (a + b) *h
     return S_t
 print(area_trapez(5, 10,5))
+print("yes")
